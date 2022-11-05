@@ -8,12 +8,15 @@
 
 ## Main Service
 
+Стэк: __NestJS__, __Typescript__, __PostgreSQL__, __TypeORM__
 
 
 ---
 ## Cron Service
 
+Стэк: __Go__, __PostgreSQL__
 
+Рекурренты на __go__ и __impay__
 
 ---
 
