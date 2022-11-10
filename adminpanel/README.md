@@ -22,7 +22,12 @@
 ## Backend
 ---
 Стэк: __NestJS__, __Postgres__, __TypeORM__, __Typescript__  
-Бэкенд админки построен с использованием архитектурного паттерна __DDD__ (Domain Driven Design)  
+Бэкенд админки построен с использованием архитектурного паттерна __DDD__ (Domain Driven Design)
+
+### Авторизация и Аутентификация
+> На бэкенде реализована JWT авторизация с Access и Refresh Токенами. Токены сохраняются в cookie браузера и автоматически цепляются к каждому запросу.  
+Refresh токен необходим для обновления обоих токенов по истечении access токена. (Если истечет и refresh токен пользователю необходимо  
+заново пройти авторизацию)
 
 Структура приложения:
 - src
@@ -80,6 +85,5 @@ __main.ts__ - точка входа в приложение
 Стэк: __ReactJS__, __Redux Tool Kit__, __Redux__, __Typescript__, __Redux Thunk__, __React Router Dom__, __Tailwind__
 
 ### Репозитории на Github:  
-[__Backend__](https://github.com/bwm-tech/nest_admin_backend)  
-[__Frontend__](https://github.com/bwm-tech/adminpanel_react)
-
+[__Backend__](https://github.com/bwm-tech/admin_backend)  
+[__Frontend__](https://github.com/bwm-tech/admin_frontend)

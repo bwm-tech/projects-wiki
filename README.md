@@ -29,8 +29,8 @@
 ## __1. Admin Panel__
 status: __PRE-RELEASE__  
 repository:
-[__backend__](https://github.com/bwm-tech/nest_admin_backend)
-[__frontend__](https://github.com/bwm-tech/adminpanel_react)  
+[__backend__](https://github.com/bwm-tech/admin_backend)
+[__frontend__](https://github.com/bwm-tech/admin_frontend)  
 [Описание проекта](adminpanel/README.md)
 
 ---
@@ -68,13 +68,13 @@ repository: [__открыть__](https://github.com/bwm-tech/webhook)
 ---
 ## __7. Dubai Writer to Google Sheets__
 status: __SUPPORT__  
-repository: [__открыть__](https://github.com/bwm-tech/dubai-utility)  
+repository: [__открыть__](https://github.com/bwm-tech/dubai-writee)  
 [__Подробнее__](dubai-writer/README.md)
 
 ---
 ## __8. Finlab Writer to Google Sheets__
 status: __SUPPORT__  
-repository: [__открыть__](https://github.com/bwm-tech/finlab-utility)  
+repository: [__открыть__](https://github.com/bwm-tech/finlab)  
 [__Подробнее__](finlab/README.md)
 
 ---
