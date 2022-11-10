@@ -21,5 +21,5 @@
 ---
 
 ### Репозитории на Github:  
-[__Main Service__](https://github.com/developer-bwm/payment-service)  
-[__Cron Service__](https://github.com/developer-bwm/payment-service-cron)
+[__Main Service__](https://github.com/bwm-tech/payment-service-main)  
+[__Cron Service__](https://github.com/bwm-tech/payment-service-cron)

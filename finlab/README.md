@@ -12,4 +12,4 @@
 ---
 
 ### Репозитории на Github:  
-[__finlab-utility__](https://github.com/developer-bwm/finlab-utility)  
+[__finlab-utility__](https://github.com/bwm-tech/finlab-utility)  

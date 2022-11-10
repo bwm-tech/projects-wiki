@@ -52,5 +52,5 @@ http://localhost:7000/api/collect?tid=UA-12342-43&cid=ads32ffsd-324fds-23rfsdv-2
 P.s Сервис связан с [утилитой парсинга курса валют](/parse-course/README.md)
 
 ### Репозиторий на Github:  
-[__postback-service__](https://github.com/developer-bwm/postback-service)  
+[__postback-service__](https://github.com/bwm-tech/postback-service)  
 

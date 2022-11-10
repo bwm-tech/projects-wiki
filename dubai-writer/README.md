@@ -11,4 +11,4 @@
 ---
 
 ### Репозитории на Github:  
-[__dubai-utility__](https://github.com/developer-bwm/dubai-utility)
+[__dubai-utility__](https://github.com/bwm-tech/dubai-utility)

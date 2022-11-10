@@ -80,6 +80,6 @@ __main.ts__ - точка входа в приложение
 Стэк: __ReactJS__, __Redux Tool Kit__, __Redux__, __Typescript__, __Redux Thunk__, __React Router Dom__, __Tailwind__
 
 ### Репозитории на Github:  
-[__Backend__](https://github.com/developer-bwm/nest_admin_backend)  
-[__Frontend__](https://github.com/developer-bwm/adminpanel_react)
+[__Backend__](https://github.com/bwm-tech/nest_admin_backend)  
+[__Frontend__](https://github.com/bwm-tech/adminpanel_react)
 

@@ -29,56 +29,56 @@
 ## __1. Admin Panel__
 status: __PRE-RELEASE__  
 repository:
-[__backend__](https://github.com/developer-bwm/nest_admin_backend)
-[__frontend__](https://github.com/developer-bwm/adminpanel_react)  
+[__backend__](https://github.com/bwm-tech/nest_admin_backend)
+[__frontend__](https://github.com/bwm-tech/adminpanel_react)  
 [Описание проекта](adminpanel/README.md)
 
 ---
 ## __2. Postback Service__
 status: __SUPPORT__  
-repository: [__открыть__](https://github.com/developer-bwm/postback-service)  
+repository: [__открыть__](https://github.com/bwm-tech/postback-service)  
 [Описание проекта](postback-service/README.md)
 
 ---
 ## __3. Payment Service__
 status: __RELEASE__  
 repository:
-[__main__](https://github.com/developer-bwm/payment-service)
-[__cron__](https://github.com/developer-bwm/payment-service-cron)  
+[__main__](https://github.com/bwm-tech/payment-service-main)
+[__cron__](https://github.com/bwm-tech/payment-service-cron)  
 [Описание проекта](payment-service/README.md)
 
 ---
 ## __4. Сайты по МФО__
 status: __SUPPORT__  
-repository: [__открыть__](https://github.com/developer-bwm/react-site-template)  
+repository: [__открыть__](https://github.com/bwm-tech/react-site-template)  
 [__Подробнее__](mfo/README.md)
 
 ---
 ## __5. Утилита парсинга курса валют__
 status: __SUPPORT__  
-repository: [__открыть__](https://github.com/developer-bwm/parse-course)  
+repository: [__открыть__](https://github.com/bwm-tech/parse-course)  
 [__Подробнее__](parse-course/README.md)
 
 ---
 ## __6. Webhook Dubai__
 status: __RELEASE__  
-repository: [__открыть__](https://github.com/developer-bwm/webhook)  
+repository: [__открыть__](https://github.com/bwm-tech/webhook)  
 [__Подробнее__](webhook/README.md)
 
 ---
 ## __7. Dubai Writer to Google Sheets__
 status: __SUPPORT__  
-repository: [__открыть__](https://github.com/developer-bwm/dubai-utility)  
+repository: [__открыть__](https://github.com/bwm-tech/dubai-utility)  
 [__Подробнее__](dubai-writer/README.md)
 
 ---
 ## __8. Finlab Writer to Google Sheets__
 status: __SUPPORT__  
-repository: [__открыть__](https://github.com/developer-bwm/finlab-utility)  
+repository: [__открыть__](https://github.com/bwm-tech/finlab-utility)  
 [__Подробнее__](finlab/README.md)
 
 ---
 ## __9. BWM Clients Writer to Google Sheets__
 status: __SUPPORT__  
-repository: [__открыть__](https://github.com/developer-bwm/bwm-clients)  
+repository: [__открыть__](https://github.com/bwm-tech/bwm-clients)  
 [__Подробнее__](bwm-clients/README.md)

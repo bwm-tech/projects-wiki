@@ -14,4 +14,4 @@
 Стэк: __Node.js__, __Javascript__, __Tailwind__, __EJS__, __Express.js__
 
 ### Репозитории на Github:  
-[__analytics-uploader__](https://github.com/developer-bwm/analytics-uploader)
+[__analytics-uploader__](https://github.com/bwm-tech/analytics-uploader)

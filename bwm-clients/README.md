@@ -9,4 +9,4 @@
 
 
 ### Репозитории на Github:  
-[__bwm-clients__](https://github.com/developer-bwm/bwm-clients)
+[__bwm-clients__](https://github.com/bwm-tech/bwm-clients)
