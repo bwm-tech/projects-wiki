@@ -45,6 +45,17 @@ CONVERT   - Валюта для конвертации (необязательн
 ```
 http://localhost:7000/api/collect?tid=UA-12342-43&cid=ads32ffsd-324fds-23rfsdv-23rfdsc&clid=JHvudif78y3u4rgvbvdfi&name=Test Offer CPA&action=Payout&payout=500siteId=4&source=yandex&currency=RUB
 ```
+
+Ссылка для партнерки:
+```
+https://bwm-server.com/postback?tid={subid3}&cid={subid1}&clid={subid2}&name={offer_name}&action={action_type}&payout={payout}&siteId={subid4}&source={subid5}&currency={currency}
+```
+
+Статусы постбека:  
+1. __Payout__  - лид принят в партнерке
+2. __Hold__    - лид зарегистрирован в партнерке ожидает принятия/отклонения
+3. __Reject__  - лид отклонен в партнерке
+
 ---
 
 ### Стэк: __Go__, __Postgres__, __Gin__, __Uber Zap__
