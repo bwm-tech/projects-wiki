@@ -63,5 +63,5 @@ https://bwm-server.com/postback?tid={subid3}&cid={subid1}&clid={subid2}&name={of
 P.s Сервис связан с [утилитой парсинга курса валют](/parse-course/README.md)
 
 ### Репозиторий на Github:  
-[__postback-service__](https://github.com/bwm-tech/postback-service)  
+[__postback-service__](https://github.com/bwm-tech/postback_service)  
 

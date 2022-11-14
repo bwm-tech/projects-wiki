@@ -36,7 +36,7 @@ repository:
 ---
 ## __2. Postback Service__
 status: __SUPPORT__  
-repository: [__открыть__](https://github.com/bwm-tech/postback-service)  
+repository: [__открыть__](https://github.com/bwm-tech/postback_service)  
 [Описание проекта](postback-service/README.md)
 
 ---
@@ -68,7 +68,7 @@ repository: [__открыть__](https://github.com/bwm-tech/webhook)
 ---
 ## __7. Dubai Writer to Google Sheets__
 status: __SUPPORT__  
-repository: [__открыть__](https://github.com/bwm-tech/dubai-writee)  
+repository: [__открыть__](https://github.com/bwm-tech/dubai-writer)  
 [__Подробнее__](dubai-writer/README.md)
 
 ---
@@ -82,3 +82,9 @@ repository: [__открыть__](https://github.com/bwm-tech/finlab)
 status: __SUPPORT__  
 repository: [__открыть__](https://github.com/bwm-tech/bwm-clients)  
 [__Подробнее__](bwm-clients/README.md)
+
+---
+## __10. Analytics Service__
+status: __SUPPORT__  
+repository: [__открыть__](https://github.com/bwm-tech/analytics-uploader)  
+Подробнее: [__Подробнее__](analytics-sender/README.md)
