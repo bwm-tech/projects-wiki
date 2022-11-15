@@ -81,6 +81,6 @@ P.s Сервис связан с [утилитой парсинга курса �
 [__postback-service__](https://github.com/bwm-tech/postback_service)  
 
 ### Дополнительная информация
-[__Google Analytics Docs__](https://developers.google.com/analytics)
+[__Google Analytics Docs__](https://developers.google.com/analytics)  
 [__Yandex Metrika Docs__](https://yandex.ru/dev/metrika/doc/api2/concept/about.html)
 
