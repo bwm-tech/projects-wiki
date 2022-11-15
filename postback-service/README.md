@@ -51,14 +51,16 @@ http://localhost:7000/api/collect?tid=UA-12342-43&cid=ads32ffsd-324fds-23rfsdv-2
 
 Ссылка для партнерки:
 ```
-https://bwm-server.com/postback?tid={subid3}&cid={subid1}&clid={subid2}&name={offer_name}&action={action_type}&payout={payout}&siteId={subid4}&source={subid5}&currency={currency}
+https://bwm-server.com/postback?tid={subid3}&cid={subid1}&clid={subid2}&name={offer_name}&action={action_type}&payout={payout}&siteId={subid4}&source={subid5}&currency={currency}  
+https://bwm-server.com/postback?tid={aff_sub3}&cid={aff_sub1}&clid={aff_sub2}&name={offer_name}&action={action_type}&payout={payout}&siteId={aff_sub4}&source={aff_sub5}&currency={currency}
 ```
 
-> __subid1-subid6__ - переменные партнерской сети с данными лида  
-> __offer_name__    - название оффера в партнерке  
-> __action_type__   - Payout, Hold, Reject  
-> __payout__        - сумма выплаты  
-> __currency__      - ISO буквенный код валюты (USD, RUB, KZT, etc)
+> __subid1-subid6__      - переменные партнерской сети с данными лида  
+> __aff_sub1-aff_sub6__  - все aff_sub эквивалентны subid
+> __offer_name__         - название оффера в партнерке  
+> __action_type__        - Payout, Hold, Reject  
+> __payout__             - сумма выплаты  
+> __currency__           - ISO буквенный код валюты (USD, RUB, KZT, etc)
 
 Статусы постбека:  
 1. __Payout__  - лид принят в партнерке
