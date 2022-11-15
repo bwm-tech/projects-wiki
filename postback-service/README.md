@@ -51,8 +51,12 @@ http://localhost:7000/api/collect?tid=UA-12342-43&cid=ads32ffsd-324fds-23rfsdv-2
 
 Ссылка для партнерки:
 ```
+c2m:
 https://bwm-server.com/postback?tid={subid3}&cid={subid1}&clid={subid2}&name={offer_name}&action={action_type}&payout={payout}&siteId={subid4}&source={subid5}&currency={currency}  
+
+letitcash:
 https://bwm-server.com/postback?tid={aff_sub3}&cid={aff_sub1}&clid={aff_sub2}&name={offer_name}&action={action_type}&payout={payout}&siteId={aff_sub4}&source={aff_sub5}&currency={currency}
+
 ```
 
 > __subid1-subid6__      - переменные партнерской сети с данными лида  
